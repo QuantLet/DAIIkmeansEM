@@ -1,0 +1,18 @@
+
+Name of Quantlet: DAIIkmeansEM
+
+Published in: "--"
+
+Description: Visualizes k means and EM clustering with Old Faithful and Iris data
+
+Keywords: cluster analysis, k means clustering, EM clustering, Old Faithful, Iris
+
+Author: Oliver Frost
+
+Submitted: Fri, August 04 2017 by Alla Petukhina
+
+Datafile: None
+
+Input: User input
+
+Output: Interactive Shiny app
